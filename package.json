@@ -1,0 +1,11 @@
+{
+  "name": "next-plugin-graphql",
+  "version": "0.0.1",
+  "description": "Next plugin for .graphql and .gql files using graphql-tag",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/lfades/next-plugin-graphql",
+  "dependencies": {
+    "graphql-tag": "^2.6.1"
+  }
+}
