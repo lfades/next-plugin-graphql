@@ -20,7 +20,7 @@ Create a `next.config.js` in your project
 
 ```js
 // next.config.js
-const withGraphql = require('@zeit/next-graphql')
+const withGraphql = require('next-plugin-graphql')
 module.exports = withGraphql()
 ```
 
@@ -28,7 +28,7 @@ Optionally you can add your custom Next.js configuration as parameter
 
 ```js
 // next.config.js
-const withGraphql = require('@zeit/next-graphql')
+const withGraphql = require('next-plugin-graphql')
 module.exports = withGraphql({
   webpack(config, options) {
     return config
