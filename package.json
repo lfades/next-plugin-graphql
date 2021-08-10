@@ -6,6 +6,6 @@
   "license": "MIT",
   "repository": "https://github.com/lfades/next-plugin-graphql",
   "dependencies": {
-    "graphql-tag": "^2.10.0"
+    "graphql-tag": "^2.12.5"
   }
 }
